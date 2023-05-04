@@ -48,7 +48,7 @@
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
 </article>
 </main>
-{{ template "_internal/disqus.html" . }}
+{{ if not .IsHome }}{{ template "_internal/disqus.html" . }}{{ end }}
 {{ block "footer" . }}
 <footer>
 	<a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a>
