@@ -24,7 +24,7 @@ that anyone can make with enough practice.
 - 🍳 Cook time: 15 min
 - 🍽️ Servings: 1
 
-## Ingredients
+## Ingredients 
 
 - bacon
 - eggs
