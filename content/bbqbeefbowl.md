@@ -3,7 +3,7 @@ title: Western BBQ Bacon Beef Bowl
 tags: ['American', 'beef', 'western', 'bbq']
 date: 2023-05-02
 author: "chunky-buttons"
-featured_image: "/pix/bbqbeefbowl.jpg"
+featured_image: "pix/bbqbeefbowl.jpg"
 ---
 
 ![Western_BBQ_Beef_Bowl](/pix/bbqbeefbowl.jpg)

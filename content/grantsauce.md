@@ -3,7 +3,7 @@ title: Grant's Special Sauce
 tags: ['Pizza', 'Tomato', 'Sauce', 'Italian']
 date: 2023-05-04
 author: "grant-cook"
-featured_image: "/pix/grantsauce.jpg"
+featured_image: "pix/grantsauce.jpg"
 ---
 
 ![Grants_Special_Sauce](/pix/grantsauce.jpg)
