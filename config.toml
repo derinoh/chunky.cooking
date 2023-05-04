@@ -2,6 +2,7 @@ baseURL = 'https://chunky.cooking/'
 languageCode = 'en-us'
 title = 'Chunky Cooking'
 theme = 'lugo'
+disqusShortname = "chunky-cooking"
 
 [params]
   favicon = "/favicon.ico"
