@@ -1,0 +1,16 @@
+baseURL = 'https://chunky.cooking/'
+languageCode = 'en-us'
+title = 'Chunky Cooking'
+theme = 'lugo'
+
+[params]
+  favicon = "/favicon.ico"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+  twitter = "makewithhugo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
