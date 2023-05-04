@@ -9,6 +9,7 @@ theme = 'lugo'
   indexarticles = 50
   taglist = true
   twitter = "makewithhugo"
+  disqusShortname = "chunky-cooking"
 
 [markup]
   [markup.goldmark]
